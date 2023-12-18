@@ -4,7 +4,7 @@
 
 # NoteNinja Notepad
 
-APP DESCRIPTION HERE... ex: pipReq is a Python application designed to effortlessly perform various essential operations related to Python package management, such as generating 'requirements.txt' files, checking for installed package issues, updating packages and installing from 'requirements.txt'. 
+Unlock a new level of text editing with NoteNinja, a sophisticated yet user-friendly application designed to elevate your writing experience. Packed with powerful features and a touch of flair, NoteNinja is not just a text editor; it's a tool that understands your need for both functionality and style. 
 
 ## Screenshots 
 
