@@ -28,7 +28,14 @@ Provide examples and guidelines on how to use your project.
 
 ## Features 
 
-List and describe the key features of your project. 
+- File Management:
+  - Users can effortlessly create, open, save, and print text files.
+
+- Efficient Text Editing:
+  - Basic text editing features such as undo, redo, cut, copy, paste, and select all contribute to a smooth and efficient text editing experience.
+
+- Customization Options:
+  - Users have the ability to customize the font size and style, enhancing the overall user experience based on individual preferences.
 
 ## Contributing 
 
